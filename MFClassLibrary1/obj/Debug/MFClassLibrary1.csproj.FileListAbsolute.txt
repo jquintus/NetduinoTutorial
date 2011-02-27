@@ -1,0 +1,2 @@
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\MFClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\MFClassLibrary1\obj\Debug\TinyCLR_DebugReferences.cache

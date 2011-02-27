@@ -1,0 +1,9 @@
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Quintus.Lib.dll
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Quintus.Lib.pdb
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Microsoft.SPOT.Hardware.dll
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Microsoft.SPOT.Native.dll
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Microsoft.SPOT.Hardware.pdb
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\bin\Debug\Microsoft.SPOT.Native.pdb
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\obj\Debug\Quintus.Lib.dll
+C:\Users\jquintus\Documents\Visual Studio 2010\Projects\Netduino\NetduinoApplication1\Quintus.Lib\obj\Debug\Quintus.Lib.pdb
